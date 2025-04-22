@@ -1,0 +1,6 @@
+# Fichiers ROS2 typiques à ignorer
+build/
+install/
+log/
+*.pyc
+__pycache__/
